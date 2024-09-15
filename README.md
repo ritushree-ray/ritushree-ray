@@ -11,7 +11,7 @@
 ---
 
 <p align="left">
-  <img width="256" height="256" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg">
+  <img width="300" height="400" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg">
 </p>
 
 
