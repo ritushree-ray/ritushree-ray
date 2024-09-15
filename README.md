@@ -23,11 +23,6 @@
 </h3>
 
 
-<p align="left">
-  <img width="450" height="600" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg">
-</p>
-
-
 
 <h1 align="center">
   About Me
