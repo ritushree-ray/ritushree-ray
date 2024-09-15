@@ -1,4 +1,4 @@
-<h3 align="centre">
+<h3 align="center">
   Ritushree Ray
 </h3>
 <h3 align="centre">
