@@ -1,5 +1,7 @@
+<h1 align="center">
+  Ritushree Ray
+</h1>
 
-<p style="text-align:center"> # Ritushree Ray </p>
 
 ## 8 years in Marketing & E-commerce
 ## Manager @ TikTok & Shopee
