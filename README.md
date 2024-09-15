@@ -1,4 +1,4 @@
-# Ritushree Ray Anh-Minh Tran (Minh)
+# Ritushree Ray
 
 ## 8 years in Marketing & E-commerce
 ## Manager @ TikTok & Shopee
