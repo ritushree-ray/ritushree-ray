@@ -22,21 +22,12 @@
 
 
 
-<h1 align="center">
-  About Me
-</h1>
-<h2 align="center">
-  Expertise
-</h2>
-<h3 align="center">
-  E-commerce campaign, integrated marketing, product marketing, go-to-market, marketing solutions
-</h3>
 
 
 
 
 
-<p align="center">
+<p align="left">
   <img width="256" height="256" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/market_strategy_21523.png">
 </p>
 
