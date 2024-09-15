@@ -1,3 +1,7 @@
+# Ritushree Ray Anh-Minh Tran (Minh)
+
+## 8 years in Marketing & E-commerce
+## Manager @ TikTok & Shopee
 
 <p align="center">
   <img width="256" height="256" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/market_strategy_21523.png">
@@ -28,7 +32,7 @@ this is hidden
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-# Hi there this is Ritushree👋
+Hi there this is Ritushree👋
 
 ## To introduce myself, I am a transformational leader and strategic storyteller with 12+ years of success in driving brand reputation, account intelligence, and go-to-market
 excellence. Proven track record of leading high-performing global teams to develop and execute customer-centric strategies, delivering regional
