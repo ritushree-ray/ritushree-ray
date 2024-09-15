@@ -1,4 +1,5 @@
 # Ritushree Ray
+<center>Centered text</center>
 
 ## 8 years in Marketing & E-commerce
 ## Manager @ TikTok & Shopee
