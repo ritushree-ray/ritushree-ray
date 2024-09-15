@@ -19,7 +19,7 @@
 <div align="right">
 <table>
 <tbody>
-<td align="center">
+<td align="right">
 <img width="1000" height="0"><br>
 <sub>This is text in the box. Much wow</sub><br>
 <img width="1000" height="0">
