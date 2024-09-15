@@ -22,8 +22,6 @@
 <td align="center">
 <img width="500" height="0"><br>
 <sub>This is text in the box. </sub><br>
-</td>
-<td align="center">  
 <img width="500" height=0">  
 <sub>Expertise</sub><br>
 <img width="500" height=0">
