@@ -21,7 +21,8 @@
 <tbody>
 <td align="center">
 <img width="500" height="0"><br>
-<sub>This is text in the box. Much wow</sub><br>
+<sub>This is text in the box. </sub><br>
+<img width="500" height=0">  
 <sub>Expertise</sub><br>
   
 E-commerce campaign, integrated marketing,
