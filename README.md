@@ -16,6 +16,18 @@
 
 
 
+<div align="center">
+<table>
+<tbody>
+<td align="center">
+<img width="2000" height="0"><br>
+<sub>This is text in the box. Much wow</sub><br>
+<img width="2000" height="0">
+</td>
+</tbody>
+</table>
+</div>
+
 
 test 2
 
@@ -29,17 +41,7 @@ some other text
   <img width="256" height="256" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/market_strategy_21523.png">
 </p>
 
-<div align="center">
-<table>
-<tbody>
-<td align="center">
-<img width="2000" height="0"><br>
-<sub>This is text in the box. Much wow</sub><br>
-<img width="2000" height="0">
-</td>
-</tbody>
-</table>
-</div>
+
 
 <details>
 <summary>"Click to expand"</summary>
