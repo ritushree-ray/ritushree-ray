@@ -10,7 +10,7 @@
 
 ---
 
-<img style="float: right" src="https://cdn.sstatic.net/Img/unified/sprites.svg" alt="Sublime's custom image" />
+<img width="450" height="600" style="float: right" src="github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg" />
 
 
 <p align="left">
