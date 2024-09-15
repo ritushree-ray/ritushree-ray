@@ -20,9 +20,9 @@
 <table>
 <tbody>
 <td align="center">
-<img width="500" height="200"><br>
+<img width="500" height="0"><br>
 <sub>This is text in the box. Much wow</sub><br>
-<img width="500" height=200">
+<img width="500" height=0">
 </td>
 </tbody>
 </table>
