@@ -15,6 +15,11 @@
 </table>
 </div>
 
+<details>
+<summary>"Click to expand"</summary>
+this is hidden
+</details>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://freesvg.org/img/Marketing_Mix_4P.png">
