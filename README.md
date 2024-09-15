@@ -4,8 +4,8 @@ To introduce myself, I am a transformational leader and strategic storyteller wi
 excellence. Proven track record of leading high-performing global teams to develop and execute customer-centric strategies, delivering regional
 relevance and cross-domain impact.
 
-😄 Pronouns: She/Her
-💬 Ask me about:  Cloud, OT and IT integration
+- 😄 Pronouns: She/Her
+- 💬 Ask me about:  Cloud, OT and IT integration
 
 <!--
 **ritushree-ray/ritushree-ray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
