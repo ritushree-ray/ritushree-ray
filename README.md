@@ -1,4 +1,8 @@
-![title](Images/market_strategy_21523.png)
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/market_strategy_21523.png">
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://freesvg.org/img/Marketing_Mix_4P.png">
