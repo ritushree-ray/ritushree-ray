@@ -1,3 +1,5 @@
+![title](Images/market_strategy_21523.png)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://freesvg.org/img/Marketing_Mix_4P.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
