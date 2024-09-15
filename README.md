@@ -1,10 +1,16 @@
-<h1 align="center">
+<h1 align="right">
   Ritushree Ray
+</h1>
+<h1 align="right">
+  8 years in Marketing & E-commerce
+</h1>
+<h1 align="right">
+  Manager @ TikTok & Shopee
 </h1>
 
 
-## 8 years in Marketing & E-commerce
-## Manager @ TikTok & Shopee
+
+
 
 <p align="center">
   <img width="256" height="256" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/market_strategy_21523.png">
