@@ -11,6 +11,15 @@
 ---
 
 <img width="450" height="600" style="float: left; margin: 30px;" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg" />
+<h1 align="center">
+  About Me
+</h1>
+<h2 align="center">
+  Expertise
+</h2>
+<h3 align="center">
+  E-commerce campaign, integrated marketing, product marketing, go-to-market, marketing solutions
+</h3>
 
 
 <p align="left">
