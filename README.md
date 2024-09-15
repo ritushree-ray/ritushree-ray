@@ -24,11 +24,6 @@
 <sub>This is text in the box. </sub><br>
 <img width="500" height=0">  
 <sub>Expertise</sub><br>
-  
-E-commerce campaign, integrated marketing,
-product marketing, go-to-market, marketing solutions
-
-
 <img width="500" height=0">
 </td>
 </tbody>
