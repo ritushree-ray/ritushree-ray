@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there this is Ritushree👋
+
+To introduce myself, I am a transformational leader and strategic storyteller with 12+ years of success in driving brand reputation, account intelligence, and go-to-market
+excellence. Proven track record of leading high-performing global teams to develop and execute customer-centric strategies, delivering regional
+relevance and cross-domain impact.
 
 😄 Pronouns: ...
 
