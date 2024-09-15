@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/market_strategy_21523.png">
+  <img width="256" height="256" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/market_strategy_21523.png">
 </p>
 
 
