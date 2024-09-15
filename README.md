@@ -10,7 +10,7 @@
 
 ---
 
-<img width="300" height="400" style="float: left; margin: 30px;" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg" />
+<img align="left" width="300" height="400" style="float: left; margin: 30px;" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg" />
 
 <h1 align="center">
   About Me
