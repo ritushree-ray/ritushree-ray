@@ -25,6 +25,7 @@
 </h3>
 
 
+<img style="float: right" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/market_strategy_21523.png" />
 
 
 <p align="center">
