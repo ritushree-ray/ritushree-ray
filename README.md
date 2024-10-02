@@ -42,7 +42,7 @@ cross-function stakeholders, brand partnerships
 
 
 
-<h3><img align="center" height="30" src="https://user-images.githubusercontent.com/84743905/174507937-c8637dd7-5a10-4c12-bf23-945c7872ace2.png"> TECHNOLOGIES</h3>
+<h3><img align="center" height="30" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg"> TECHNOLOGIES</h3>
 
 test 2
 
