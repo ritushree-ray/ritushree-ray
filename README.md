@@ -21,7 +21,17 @@
 <tbody>
 <td align="center">
 <img width="500" height="0"><br>
-<sub>This is text in the box. </sub><br>
+<sub>About me
+Expertise
+E-commerce campaign, integrated marketing,
+product marketing, go-to-market, marketing solutions
+
+
+Stakeholder management
+Manage teams of 10+ headcounts,
+cross-function stakeholders, brand partnerships 
+
+ </sub><br>
 <img width="500" height=0">  
 <sub>Expertise</sub><br>
 <img width="500" height=0">
