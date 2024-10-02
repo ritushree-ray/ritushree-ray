@@ -11,7 +11,7 @@
 ---
 
 
-![bg left](https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg)
+
 
 <img align="left" width="300" height="400" style="float: left" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg" />
 
@@ -42,6 +42,9 @@ cross-function stakeholders, brand partnerships
 </table>
 </div>
 
+
+
+![bg left](https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg)
 
 
 <h3><img align="center" height="300" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg"> TECHNOLOGIES</h3>
