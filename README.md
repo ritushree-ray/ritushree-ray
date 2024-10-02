@@ -49,10 +49,18 @@ cross-function stakeholders, brand partnerships
 
 <h3><img align="center" height="300" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg"> TECHNOLOGIES</h3>
 
-test 2
+<h2>
+About me
+Expertise
+E-commerce campaign, integrated marketing,
+product marketing, go-to-market, marketing solutions
+</h3>
 
 
-some other text
+Stakeholder management
+Manage teams of 10+ headcounts,
+cross-function stakeholders, brand partnerships 
+
 
 
 
