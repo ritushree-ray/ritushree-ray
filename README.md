@@ -2,7 +2,7 @@
 
 # About Me 
 
-<div align="center"> <b> About Me </b> </div>
+<div align="center"> <b> <font size="8">Your visible text goes here and will look like this.</font> </b> </div>
 
 <h3 align="center">
   Ritushree Ray
