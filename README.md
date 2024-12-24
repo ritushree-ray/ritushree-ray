@@ -18,7 +18,11 @@ Inspired by [Elm].
 <a href="https://github.com/squidowl/halloy">
   <img src="https://iced.rs/showcase/halloy.gif" width="460px">
 </a>
-<a> About me
+<a> 
+  
+  <p style="text-align:center;">Sample text with center alignment</p>
+  
+  About me
 Expertise
 E-commerce campaign, integrated marketing,
 product marketing, go-to-market, marketing solutions
