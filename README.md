@@ -5,6 +5,9 @@
 <div align="center"> <h4> <p> E-commerce campaign, integrated marketing,
 product marketing, go-to-market, marketing solutions </p> </h4> </div>
 <div align="center" font size="16"> <h2> Stakeholder Management </h2> </div>
+<div align="center"> <h4> <p> Manage teams of 10+ headcounts, cross-function stakeholders, brand partnerships </p> </h4> </div>
+
+
 
 <div align="center" font size="16"> <h4> Manager @ Honeywell & Thoughtworks </h4> </div>
 
