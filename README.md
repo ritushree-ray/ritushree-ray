@@ -2,7 +2,7 @@
 
 # About Me 
 
-<div align="center"> <b> <font size="16"> About Me </font> </b> </div>
+<div align="center">  <font size="16"> <b> About Me </b> </font> </div>
 
 <h3 align="center">
   Ritushree Ray
