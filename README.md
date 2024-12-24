@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg" />
+<img align="left" width="350" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg" />
 
 # Headline 
 
