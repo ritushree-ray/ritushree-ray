@@ -8,6 +8,12 @@ Some text
 
 
 
+
+
+
+
+
+
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
     <img src="https://iced.rs/showcase/halloy.gif" alt=" "width="240px">
