@@ -1,3 +1,10 @@
+</br>
+
+</br>
+
+
+
+
 <img align="left" width="350" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg" />
 
 <div align="center"> <h2> About Me </h2> </div>
