@@ -2,7 +2,7 @@
 
 # About Me 
 
-<div align="center"> * About Me * </div>
+<div align="center"> <b> About Me </b> </div>
 
 <h3 align="center">
   Ritushree Ray
