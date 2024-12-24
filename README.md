@@ -7,7 +7,7 @@ product marketing, go-to-market, marketing solutions </p> </h4> </div>
 <div align="center" font size="16"> <h2> Stakeholder Management </h2> </div>
 <div align="center"> <h4> <p> Manage teams of 10+ headcounts, cross-function stakeholders, brand partnerships </p> </h4> </div>
 
-"""
+[
 <h3 align="center">
 </h3>
 <h3 align="center">
@@ -15,7 +15,7 @@ product marketing, go-to-market, marketing solutions </p> </h4> </div>
 <h3 align="center">
   Manager @ Honeywell & Thoughtworks
 </h3>
-"""
+]: #
 
 
 
