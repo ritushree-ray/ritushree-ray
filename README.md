@@ -1,3 +1,16 @@
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="https://iced.rs/showcase/halloy.gif" alt="">
+  </div>
+  <div>
+    <h2>Some title text</h2>
+    <p>Some more text that will appear to the left of the image.</p>
+  </div>
+</div>
+
+
+
 <div align="center">
 
 <img src="docs/logo.svg" width="140px" />
