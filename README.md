@@ -18,8 +18,7 @@ Inspired by [Elm].
 <a href="https://github.com/squidowl/halloy">
   <img src="https://iced.rs/showcase/halloy.gif" width="460px">
 </a>
-<a href="https://github.com/hecrj/icebreaker">
-<sub>About me
+<a> About me
 Expertise
 E-commerce campaign, integrated marketing,
 product marketing, go-to-market, marketing solutions
