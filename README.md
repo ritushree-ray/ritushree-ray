@@ -2,12 +2,14 @@
 
 <div align="center" font size="16"> <h1> About Me </h1> </div>
 <div align="center" font size="16"> <h3> Ritushree Ray </h3> </div>
+<div align="center" font size="16"> <h3> (N) years in Marketing & E-commerce </h3> </div>
+<div align="center" font size="16"> <h3> Manager @ Honeywell & Thoughtworks </h3> </div>
 
 <h3 align="center">
 
 </h3>
 <h3 align="center">
-  8 years in Marketing & E-commerce
+  
 </h3>
 <h3 align="center">
   Manager @ Honeywell & Thoughtworks
