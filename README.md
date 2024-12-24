@@ -7,15 +7,7 @@ product marketing, go-to-market, marketing solutions </p> </h4> </div>
 <div align="center"> <h3> Stakeholder Management </h3> </div>
 <div align="center"> <h4> <p> Manage teams of 10+ headcounts, cross-function stakeholders, brand partnerships </p> </h4> </div>
 
-[
-<h3 align="center">
-</h3>
-<h3 align="center">
-</h3>
-<h3 align="center">
-  Manager @ Honeywell & Thoughtworks
-</h3>
-]: #
+
 
 
 
@@ -153,3 +145,15 @@ Here are some ideas to get you started:
 
 reflink DELETE
 https://www.anhminht.com/
+
+
+
+Comment Starts
+
+<h3 align="center">
+</h3>
+<h3 align="center">
+</h3>
+<h3 align="center">
+  Manager @ Honeywell & Thoughtworks
+</h3>
