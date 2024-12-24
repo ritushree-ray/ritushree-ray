@@ -9,7 +9,7 @@
   8 years in Marketing & E-commerce
 </h3>
 <h3 align="center">
-  Manager @ TikTok & Shopee
+  Manager @ Honeywell & Thoughtworks
 </h3>
 
 
