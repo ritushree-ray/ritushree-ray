@@ -1,6 +1,6 @@
 <img align="left" width="350" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg" />
 
-# Headline 
+# About Me 
 
 <h3 align="center">
   Ritushree Ray
