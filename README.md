@@ -8,6 +8,12 @@ product marketing, go-to-market, marketing solutions </p> </h4> </div>
 <div align="center"> <h4> <p> Manage teams of 10+ headcounts, cross-function stakeholders, brand partnerships </p> </h4> </div>
 
 <div align="center"> <h4> <p>   </p> </h4> </div>
+<div align="center"> <h4> <p>   </p> </h4> </div>
+<div align="center"> <h4> <p>   </p> </h4> </div>
+<div align="center"> <h4> <p>   </p> </h4> </div>
+<div align="center"> <h4> <p>   </p> </h4> </div>
+<div align="center"> <h4> <p>   </p> </h4> </div>
+
 
 
 
