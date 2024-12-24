@@ -1,6 +1,6 @@
 <img align="left" width="350" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg" />
 
-<div align="center" font size="16"> <b> About Me </b> </div>
+<div align="center" font size="16"> <h3> About Me </h3> </div>
 
 <h3 align="center">
   Ritushree Ray
