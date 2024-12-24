@@ -2,6 +2,8 @@
 
 # About Me 
 
+<div align="center"> ** About Me ** </div>
+
 <h3 align="center">
   Ritushree Ray
 </h3>
