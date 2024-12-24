@@ -19,7 +19,7 @@ Inspired by [Elm].
   <img src="https://iced.rs/showcase/halloy.gif" width="460px">
 </a>
 <a href="https://github.com/hecrj/icebreaker">
-  About me
+<sub> About me
 Expertise
 E-commerce campaign, integrated marketing,
 product marketing, go-to-market, marketing solutions
