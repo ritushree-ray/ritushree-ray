@@ -1,8 +1,9 @@
 <img align="left" width="350" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg" />
 
 <div align="center" font size="16"> <h1> About Me </h1> </div>
-<div align="center" font size="16"> <h3> Ritushree Ray </h3> </div>
-<div align="center" font size="16"> <h3> (N) years in Marketing & E-commerce </h3> </div>
+<div align="center" font size="16"> <h3> Expertise </h3> </div>
+<div align="center" font size="16"> <h3> E-commerce campaign, integrated marketing,
+product marketing, go-to-market, marketing solutions </h3> </div>
 <div align="center" font size="16"> <h3> Manager @ Honeywell & Thoughtworks </h3> </div>
 
 <h3 align="center">
