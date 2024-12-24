@@ -2,7 +2,7 @@
 
 <div align="center" font size="16"> <h1> About Me </h1> </div>
 <div align="center" font size="16"> <h2> Expertise </h2> </div>
-<div align="center" font size="16"> <h4> E-commerce campaign, integrated marketing,
+<div align="center" font size="24"> <h4> E-commerce campaign, integrated marketing,
 product marketing, go-to-market, marketing solutions </h4> </div>
 <div align="center" font size="16"> <h4> Manager @ Honeywell & Thoughtworks </h4> </div>
 
