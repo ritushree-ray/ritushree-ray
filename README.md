@@ -1,4 +1,4 @@
-<img align="left" width="350" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg" />
+<img align="left" width="325" src="https://github.com/ritushree-ray/ritushree-ray/blob/main/Images/smart%20casual1.jpg" />
 
 <div align="center" font size="16"> <h1> About Me </h1> </div>
 <div align="center" font size="16"> <h2> Expertise </h2> </div>
