@@ -19,7 +19,11 @@ Inspired by [Elm].
   <img src="https://iced.rs/showcase/halloy.gif" width="460px">
 </a>
 <a href="https://github.com/hecrj/icebreaker">
-  <img src="https://iced.rs/showcase/icebreaker.gif" width="360px">
+  About me
+Expertise
+E-commerce campaign, integrated marketing,
+product marketing, go-to-market, marketing solutions
+<!--  <img src="https://iced.rs/showcase/icebreaker.gif" width="360px"> -->
 </a>
 
 </div>
