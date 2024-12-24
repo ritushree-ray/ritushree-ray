@@ -2,7 +2,15 @@
 
 # Headline 
 
-Some text
+<h3 align="center">
+  Ritushree Ray
+</h3>
+<h3 align="center">
+  8 years in Marketing & E-commerce
+</h3>
+<h3 align="center">
+  Manager @ TikTok & Shopee
+</h3>
 
 
 
