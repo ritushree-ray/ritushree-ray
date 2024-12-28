@@ -11,6 +11,13 @@
 <div align="center"> <h3> Expertise </h3> </div>
 <div align="center"> <h4> <p> E-commerce campaign, integrated marketing,
 product marketing, go-to-market, marketing solutions </p> </h4> </div>
+
+
+</br>
+
+</br>
+
+
 <div align="center"> <h3> Stakeholder Management </h3> </div>
 <div align="center"> <h4> <p> Manage teams of 10+ headcounts, cross-function stakeholders, brand partnerships </p> </h4> </div>
 
